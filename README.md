@@ -1,1 +1,2 @@
 # last-checkpoint
+I feel highly motivated and prepared to take the next step in my career as a software developer. The bootcamp has equipped me with both technical skills and problem-solving confidence, and I’m eager to apply these in a professional setting. While there’s always more to learn, I’m now comfortable with core programming concepts, collaborative workflows (like Git), and the ability to quickly adapt to new technologies—which I believe are critical for success in a junior developer role.
